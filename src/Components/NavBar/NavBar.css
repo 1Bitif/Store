@@ -1,0 +1,21 @@
+
+*{
+  font-family: monospace;
+}
+#navbarSupportedContent ul li{
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+}
+.nav-hover{
+  color: white;
+}
+.nav-hover:hover{
+  color: #E4A11B;
+}
+
+.main-title h2{
+  font-size: 24px;
+  font-weight: 700;
+  
+}
